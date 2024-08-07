@@ -27,7 +27,8 @@ Predict: Use the trained model to make predictions on the test set or unseen dat
 Evaluate: Assess the model’s performance using metrics such as accuracy, precision, recall, and F1-score. Create a confusion matrix to visualize the classification results and identify areas of improvement.
 Hyperparameter Tuning
 
-# Optimize Model: Adjust hyperparameters to improve model performance. Techniques such as grid search or random search can be used to find the best parameters for the model.
+# Optimize Model:
+Adjust hyperparameters to improve model performance. Techniques such as grid search or random search can be used to find the best parameters for the model.
 Documentation and Reporting
 
 # Document Findings:
